@@ -1,12 +1,11 @@
-.post{
+.post {
   border: 1px solid;
   width: 40%;
-  margin: 30px;
-  font-style: italic;
+  margin-top: 30px;
 }
-.post_date{
-  color:gray;
+.post-date {
+  color: gray;
 }
-.post_content{
-  font-style: normal;
+div[data-check="true"] {
+  background: #585555;
 }
